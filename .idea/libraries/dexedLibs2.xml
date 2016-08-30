@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MyAndroidFrameAnimation/bin/dexedLibs/android-support-v4-140a88d0f441954b9343076deafc685b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MyAndroidFrameAnimation/bin/dexedLibs/android-support-v4-bce09cc1127fdaaf9bca77aa8447252d.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

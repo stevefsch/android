@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Chapter01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter22" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,76 @@
+import java.util.List;
+import java.util.Collections;
+import java.util.LinkedList;
+
+public class Clerk implements Runnable
+{
+  private Bank theBank;               // The employer - an electronic marvel
+  // The in-tray holding transactions
+  private List inTray = Collections.synchronizedList(new LinkedList());
+
+  private int maxTransactions = 8;      // Maximum transactions in the in-tray
+
+  // Constructor
+  public Clerk(Bank theBank)
+  {
+    this.theBank = theBank;           // Who the clerk works for
+    //inTray = null;                    // No transaction initially
+  }
+
+  // Receive a transaction
+  synchronized public void doTransaction(Transaction transaction)
+  {
+    while(inTray.size() >= maxTransactions)
+    {
+      try
+      {
+        wait();
+      }
+      catch(InterruptedException e)
+      {
+        System.out.println(e);
+      }
+    }
+    inTray.add(transaction);
+    notifyAll();
+  }
+
+  // The working clerk...
+  synchronized public void run()
+  {
+    while(true)
+    {
+      while(inTray.size() == 0)     // No transaction waiting?
+      {
+        try
+        {
+          wait();                     // Then take a break until there is
+        }
+        catch(InterruptedException e)
+        {
+          System.out.println(e);
+        }
+      }
+ 
+      theBank.doTransaction((Transaction)inTray.remove(0));
+      notifyAll();                  // Notify other threads locked on this clerk
+    }
+  }
+  
+  // Busy check
+  synchronized public void isBusy()
+  {
+  while(inTray.size() != 0)             // Is this object busy?
+  {
+       try
+      {
+        wait();                       // Yes, so wait for notify call
+      }
+      catch(InterruptedException e)
+      {
+        System.out.println(e);
+      }
+      return;                           // It is free now
+    }
+  }
+}

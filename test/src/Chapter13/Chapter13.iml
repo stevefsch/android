@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/1. Creating the Crowd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2. Sorting the Stars" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3. Dealing Cards" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4. Using a HashMap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. Storing a Map in a file" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

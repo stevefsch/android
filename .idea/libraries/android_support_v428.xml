@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="android-support-v428">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MyAndroidContentProviderSamples/libs/android-support-v4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

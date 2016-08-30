@@ -1,0 +1,217 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0099cc"
+    tools:context="com.example.myandroidtestactivitys.FullscreenActivity" >
+
+    <!--
+         The primary full-screen view. This can be replaced with whatever view
+         is needed to present your content, e.g. VideoView, SurfaceView,
+         TextureView, etc.
+    -->
+
+    <TextView
+        android:id="@+id/fullscreen_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:keepScreenOn="true"
+        android:text="@string/dummy_content"
+        android:textColor="#33b5e5"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+    
+     <!--
+         This FrameLayout insets its children based on system windows using
+         android:fitsSystemWindows.
+    -->
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true" >
+        
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:fadingEdge="vertical">"
+        
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">            
+
+       <Button
+            android:id="@+id/button01"
+            android:text="AutoComplete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button02"
+            android:text="Tab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button03"
+            android:text="ProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button04"
+            android:text="ProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button05"
+            android:text="TimeDatePicker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button06"
+            android:text="ListView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button08"
+            android:text="显示电话本"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button09"
+            android:text="测试网页"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button10"
+            android:text="测试地图"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button11"
+            android:text="回到主页"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button12"
+            android:text="显示电话拨号面板"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button13"
+            android:text="拨打电话"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button14"
+            android:text="发送短消息"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button15"
+            android:text="选择发短消息"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button16"
+            android:text="选择Activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button17"
+            android:text="search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+        
+        <Button
+            android:id="@+id/button18"
+            android:text="web search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+        
+        <Button
+            android:id="@+id/button19"
+            android:text="factory test"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+
+        <Button
+            android:id="@+id/button20"
+            android:text="发送邮件"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+        
+        <Button
+            android:id="@+id/button21"
+            android:text="测试"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+        
+        <Button
+            android:id="@+id/button22"
+            android:text="测试"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+        
+        <Button
+            android:id="@+id/button23"
+            android:text="测试"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+        
+        <Button
+            android:id="@+id/button24"
+            android:text="测试"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+        
+        <Button
+            android:id="@+id/button25"
+            android:text="测试"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+        
+        <Button
+            android:id="@+id/button100"
+            android:text="保留"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></Button>
+        
+        </LinearLayout>
+        </ScrollView>
+        <LinearLayout
+            android:id="@+id/fullscreen_content_controls"
+            style="?metaButtonBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center_horizontal"
+            android:background="@color/black_overlay"
+            android:orientation="horizontal"
+            tools:ignore="UselessParent" >            
+            
+            <Button
+                android:id="@+id/dummy_button"
+                style="?metaButtonBarButtonStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="显示第一个联系人信息" />
+        </LinearLayout>
+    </FrameLayout>
+
+</FrameLayout>

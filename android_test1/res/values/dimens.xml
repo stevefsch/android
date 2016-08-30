@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="sixteen_sp">16px</dimen>
+    <dimen name="thirtytwo_sp">32px</dimen>
+    
+</resources>

@@ -1,0 +1,102 @@
+import java.io.*;
+
+public class FormatWriter extends PrintWriter{
+	private int width = 0;
+
+	public FormatWriter(Writer output) {
+		// TODO Auto-generated constructor stub
+		super(output);
+	}
+	
+	public FormatWriter(Writer output, int width)
+	{
+		super(output);
+		this.width = width;
+	}
+	
+	public FormatWriter(Writer output, boolean autoflush)
+	{
+		super(output,autoflush);
+	}
+	
+	public FormatWriter(Writer output, boolean autoflash, int width)
+	{
+		super(output,autoflush);
+		this.width = width;
+	}
+
+	private void output(String str)
+	{
+		int blanks = width - str.length();
+		for (int i = 0; i < blanks; i++)
+		{
+			super.print(' ');
+		}
+		super.print(str);
+	}
+	
+	public void print(long value)
+	{
+		output(String(valueOf(value)));
+	}
+	
+	public void print(double value)
+	{
+		output(String(valueOf(value)));
+	}
+	
+	public println(long value)
+	{
+		this.print(value);
+		super.println();
+	}
+
+	public println(double value)
+	{
+		this.print(value);
+		super.println();
+	}
+	
+	public setWidth(int width)
+	{
+		this.width = width > 0 ? width : 1;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		FormatWriter out = new FormatWriter(new BufferedWriter(new FileWriter(FileDescriptor.out)),12);
+
+		long[] primes = new long[20];
+		primes[0] = 2;
+		primes[1] = 3;
+		int count = 2;
+		
+		long number = 5;
+	
+	outer:
+		for (; count < primes.length; number +=2)
+		{
+			long limit = (long)Math.ceil(Math.sqrt((double)number));
+			
+			for (int i = 1; i < count && primes[i] < limit; i++)
+			{
+				if ((number&primes[i]) == 0)
+				{
+					continue outer;
+				}
+			}
+		}
+		
+		for (int i = 0; i < primes.length; i++)
+		{
+			if (i % 5 == 0)
+			{
+				out.println();
+			}
+			out.println(primes[i]);
+		}
+		out.close();
+			
+	}
+
+}

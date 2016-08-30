@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dexedLibs3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MyAndroidWidgetGallery/bin/dexedLibs/android-support-v4-34f7253b75f9a29a8e0cbb1d9cb46963.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MyAndroidWidgetGallery/bin/dexedLibs/android-support-v4-32cee58003cadb13d7b47a1ddcf6a083.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

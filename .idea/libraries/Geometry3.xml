@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Geometry3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test/bin/Chapter05/7. TryPackage/Geometry/Geometry.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

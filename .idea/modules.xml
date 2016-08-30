@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter04/05 MatchStrings/05 MatchStrings.iml" filepath="$PROJECT_DIR$/test/src/Chapter04/05 MatchStrings/05 MatchStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter04/5. MatchStrings/5. MatchStrings.iml" filepath="$PROJECT_DIR$/test/src/Chapter04/5. MatchStrings/5. MatchStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch02/Ch02.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch02/Ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch03/Ch03.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch03/Ch03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch04/Ch04.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch04/Ch04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch05/Ch05.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch05/Ch05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch06/Ch06.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch06/Ch06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch07/Ch07.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch07/Ch07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch08/Ch08.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch08/Ch08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch09/Ch09.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch09/Ch09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch10/Ch10.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch10/Ch10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch11/Ch11.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch11/Ch11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch12/Ch12.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch12/Ch12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch13/Ch13.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch13/Ch13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch14/Ch14.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch14/Ch14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch15/Ch15.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch15/Ch15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch16/Ch16.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch16/Ch16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch17/Ch17.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch17/Ch17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch18/Ch18.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch18/Ch18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch19/Ch19.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch19/Ch19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch20/Ch20.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch20/Ch20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch21/Ch21.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch21/Ch21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Solutions to Exercises/Ch22/Ch22.iml" filepath="$PROJECT_DIR$/test/src/Solutions to Exercises/Ch22/Ch22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter04/Chapter04.iml" filepath="$PROJECT_DIR$/test/src/Chapter04/Chapter04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter07/Chapter07.iml" filepath="$PROJECT_DIR$/test/src/Chapter07/Chapter07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter13/Chapter13.iml" filepath="$PROJECT_DIR$/test/src/Chapter13/Chapter13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter17/Chapter17.iml" filepath="$PROJECT_DIR$/test/src/Chapter17/Chapter17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter18/Chapter18.iml" filepath="$PROJECT_DIR$/test/src/Chapter18/Chapter18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter19/Chapter19.iml" filepath="$PROJECT_DIR$/test/src/Chapter19/Chapter19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter21/Chapter21.iml" filepath="$PROJECT_DIR$/test/src/Chapter21/Chapter21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter18/CurveApplet/CurveApplet.iml" filepath="$PROJECT_DIR$/test/src/Chapter18/CurveApplet/CurveApplet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter18/GradientApplet/GradientApplet.iml" filepath="$PROJECT_DIR$/test/src/Chapter18/GradientApplet/GradientApplet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroid1/MyAndroid1.iml" filepath="$PROJECT_DIR$/MyAndroid1/MyAndroid1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidActivitySample/MyAndroidActivitySample.iml" filepath="$PROJECT_DIR$/MyAndroidActivitySample/MyAndroidActivitySample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidBroadcastExample/MyAndroidBroadcastExample.iml" filepath="$PROJECT_DIR$/MyAndroidBroadcastExample/MyAndroidBroadcastExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidCameraSample/MyAndroidCameraSample.iml" filepath="$PROJECT_DIR$/MyAndroidCameraSample/MyAndroidCameraSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidContentProviderSamples/MyAndroidContentProviderSamples.iml" filepath="$PROJECT_DIR$/MyAndroidContentProviderSamples/MyAndroidContentProviderSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidDataAccess/MyAndroidDataAccess.iml" filepath="$PROJECT_DIR$/MyAndroidDataAccess/MyAndroidDataAccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidFrameAnimation/MyAndroidFrameAnimation.iml" filepath="$PROJECT_DIR$/MyAndroidFrameAnimation/MyAndroidFrameAnimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidMediaPlayer/MyAndroidMediaPlayer.iml" filepath="$PROJECT_DIR$/MyAndroidMediaPlayer/MyAndroidMediaPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidSQLiteSample/MyAndroidSQLiteSample.iml" filepath="$PROJECT_DIR$/MyAndroidSQLiteSample/MyAndroidSQLiteSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidServiceSample/MyAndroidServiceSample.iml" filepath="$PROJECT_DIR$/MyAndroidServiceSample/MyAndroidServiceSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidTest1/MyAndroidTest1.iml" filepath="$PROJECT_DIR$/MyAndroidTest1/MyAndroidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidTest2/MyAndroidTest2.iml" filepath="$PROJECT_DIR$/MyAndroidTest2/MyAndroidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidTest3/MyAndroidTest3.iml" filepath="$PROJECT_DIR$/MyAndroidTest3/MyAndroidTest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidTestActivitys/MyAndroidTestActivitys.iml" filepath="$PROJECT_DIR$/MyAndroidTestActivitys/MyAndroidTestActivitys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidTestBitmap/MyAndroidTestBitmap.iml" filepath="$PROJECT_DIR$/MyAndroidTestBitmap/MyAndroidTestBitmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidThread/MyAndroidThread.iml" filepath="$PROJECT_DIR$/MyAndroidThread/MyAndroidThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidWIdgetWabView/MyAndroidWIdgetWabView.iml" filepath="$PROJECT_DIR$/MyAndroidWIdgetWabView/MyAndroidWIdgetWabView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidWidgetGallery/MyAndroidWidgetGallery.iml" filepath="$PROJECT_DIR$/MyAndroidWidgetGallery/MyAndroidWidgetGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidWidgetMap/MyAndroidWidgetMap.iml" filepath="$PROJECT_DIR$/MyAndroidWidgetMap/MyAndroidWidgetMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidWidgetMapView/MyAndroidWidgetMapView.iml" filepath="$PROJECT_DIR$/MyAndroidWidgetMapView/MyAndroidWidgetMapView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidWidgetSample/MyAndroidWidgetSample.iml" filepath="$PROJECT_DIR$/MyAndroidWidgetSample/MyAndroidWidgetSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidWidgetSample2/MyAndroidWidgetSample2.iml" filepath="$PROJECT_DIR$/MyAndroidWidgetSample2/MyAndroidWidgetSample2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAndroidWidgetWapView/MyAndroidWidgetWapView.iml" filepath="$PROJECT_DIR$/MyAndroidWidgetWapView/MyAndroidWidgetWapView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Myandroid2/Myandroid2.iml" filepath="$PROJECT_DIR$/Myandroid2/Myandroid2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Myandroid5/Myandroid5.iml" filepath="$PROJECT_DIR$/Myandroid5/Myandroid5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mychapter20/Mychapter20.iml" filepath="$PROJECT_DIR$/Mychapter20/Mychapter20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/Chapter18/StarApplet/StarApplet.iml" filepath="$PROJECT_DIR$/test/src/Chapter18/StarApplet/StarApplet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test_GUI/Test_GUI.iml" filepath="$PROJECT_DIR$/Test_GUI/Test_GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_test1/android_test1.iml" filepath="$PROJECT_DIR$/android_test1/android_test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter20/chapter20.iml" filepath="$PROJECT_DIR$/chapter20/chapter20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myandroid3/myandroid3.iml" filepath="$PROJECT_DIR$/myandroid3/myandroid3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myandroid6/myandroid6.iml" filepath="$PROJECT_DIR$/myandroid6/myandroid6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/src/test.iml" filepath="$PROJECT_DIR$/test/src/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test2/test2.iml" filepath="$PROJECT_DIR$/test2/test2.iml" />
+    </modules>
+  </component>
+</project>
